@@ -1,0 +1,505 @@
+<mxfile host="app.diagrams.net" pages="6">
+  <diagram name="User Flow" id="userflow">
+    <mxGraphModel dx="2828" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="860" pageHeight="1400" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EjRlC_hf50UP3esscz4K-1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=28;fontColor=#222222;" value="Green Claims Guard: labelled desktop wireframe" vertex="1">
+          <mxGeometry height="45" width="1550" x="350" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-2" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=17;fontColor=#222222;" value="Prototype interface for functional testing of editing, compliance and review workflows" vertex="1">
+          <mxGeometry height="35" width="1500" x="350" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-3" parent="1" style="rounded=0;html=1;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="970" width="1320" x="350" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-4" parent="1" style="rounded=0;html=1;fillColor=#B9E0A5;strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="970" width="215" x="350" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-5" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=17;fontColor=#222222;" value="GREEN CLAIMS GUARD" vertex="1">
+          <mxGeometry height="55" width="185" x="365" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-6" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#222222;" value="MAIN" vertex="1">
+          <mxGeometry height="25" width="165" x="370" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Overview" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d5d5d5;fontStyle=1;" value="Product" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="457" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d5d5d5;fontStyle=1;" value="    Add Product" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="499" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="    My Products" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="541" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Product Inventory" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Reports" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Data Transfer  [locked]" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Pending Review" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="709" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Verified Facts  [locked]" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="751" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;strokeColor=none;fillColor=none;align=left;" value="Audit Trail  [locked]" vertex="1">
+          <mxGeometry height="35" width="185" x="365" y="793" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-17" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=14;fontColor=#222222;" value="Light mode&#xa;&#xa;ACCOUNT&#xa;Help&#xa;Account Settings&#xa;Activity&#xa;Sign Out" vertex="1">
+          <mxGeometry height="275" width="175" x="370" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="80" width="1070" x="580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-19" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=19;fontColor=#222222;" value="OVERVIEW / PRODUCT / ADD PRODUCT&#xa;New Product" vertex="1">
+          <mxGeometry height="55" width="700" x="595" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-20" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=13;fontColor=#222222;" value="Notifications  |  Messages  |  Copywriter" vertex="1">
+          <mxGeometry height="35" width="345" x="1290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="550" width="620" x="580" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-22" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=18;fontColor=#222222;" value="Product page preview" vertex="1">
+          <mxGeometry height="30" width="570" x="595" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#999999;fontColor=#555555;fontSize=16;" value="No photo on file" vertex="1">
+          <mxGeometry height="295" width="420" x="670" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-24" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=16;fontColor=#222222;" value="Product title preview&#xa;&#xa;Description preview" vertex="1">
+          <mxGeometry height="95" width="575" x="595" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d8d8d8;fontStyle=1;" value="Submit" vertex="1">
+          <mxGeometry height="35" width="95" x="1085" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="550" width="430" x="1220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d5d5d5;" value="Description" vertex="1">
+          <mxGeometry height="35" width="110" x="1235" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="Examples" vertex="1">
+          <mxGeometry height="35" width="110" x="1365" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="Guidance" vertex="1">
+          <mxGeometry height="35" width="110" x="1480" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-30" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=14;fontColor=#222222;" value="Product Name" vertex="1">
+          <mxGeometry height="25" width="390" x="1235" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="42" width="400" x="1235" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-32" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=14;fontColor=#222222;" value="Market" vertex="1">
+          <mxGeometry height="25" width="390" x="1235" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;align=left;fontSize=12;" value="UK (CMA Green Claims Code, CAP Code)   v" vertex="1">
+          <mxGeometry height="35" width="400" x="1235" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-34" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=14;fontColor=#222222;" value="Product Description" vertex="1">
+          <mxGeometry height="25" width="390" x="1235" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;align=left;verticalAlign=top;spacing=10;" value="Enter product copy…" vertex="1">
+          <mxGeometry height="150" width="400" x="1235" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fontSize=13;align=left;spacing=8;fillColor=#eeeeee;" value="Verified facts (read only)                         Show v" vertex="1">
+          <mxGeometry height="35" width="400" x="1235" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d8d8d8;" value="Save draft" vertex="1">
+          <mxGeometry height="35" width="105" x="1405" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#d8d8d8;" value="Discard" vertex="1">
+          <mxGeometry height="35" width="105" x="1520" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="155" width="430" x="1220" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-40" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=18;fontColor=#222222;" value="Claims &amp; sustainability" vertex="1">
+          <mxGeometry height="25" width="395" x="1235" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;fillColor=#eeeeee;" value="Start writing for feedback&#xa;&#xa;Findings appear here after analysis" vertex="1">
+          <mxGeometry height="85" width="400" x="1235" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="95" width="430" x="1220" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-43" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=17;fontColor=#222222;" value="Product details" vertex="1">
+          <mxGeometry height="25" width="390" x="1235" y="1153" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#222222;fontSize=14;align=left;spacing=8;" value="Product Category (optional)" vertex="1">
+          <mxGeometry height="37" width="400" x="1235" y="1187" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="1. Navigation&#xa;Persistent workflow links and restricted functions." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-46" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-4">
+          <mxGeometry relative="1" x="0.0778" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="390" />
+              <mxPoint x="1137.5" y="390" />
+              <mxPoint x="1137.5" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="2. Location and role&#xa;Breadcrumbs, page title and signed-in role." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-48" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="3. Product preview&#xa;Compare entered text with its presentation." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-50" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="4. Contextual support&#xa;Description, Examples and Guidance tabs." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-52" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="5. Market selection&#xa;Choose the relevant jurisdiction." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-54" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="6. Verified facts&#xa;Read-only evidence panel; expand as needed." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-56" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="7. Draft actions&#xa;Save or discard work before review." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-58" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="8. Compliance feedback&#xa;Findings, severity and citations when available." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-60" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="9. Submit for review&#xa;Server validates permissions and blocking findings." vertex="1">
+          <mxGeometry height="75" width="340" x="1710" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-62" edge="1" parent="1" source="EjRlC_hf50UP3esscz4K-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;strokeColor=#555555;dashed=1;" target="EjRlC_hf50UP3esscz4K-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRlC_hf50UP3esscz4K-63" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=14;fontColor=#222222;" value="Lower product-detail fields continue below the viewport. Layout represents the supplied screenshot; usability and accessibility are not established by this wireframe." vertex="1">
+          <mxGeometry height="45" width="1440" x="580" y="1270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="C4 Context" id="c4context">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="650" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="C4 Level 1, System Context: Green Claims Guard" style="text;html=1;fontStyle=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="Copywriter&#xa;[Person]&#xa;Writes and checks fashion product copy before submitting it for sign-off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#08427b;strokeColor=#052e56;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="Senior Editor&#xa;[Person]&#xa;Reviews submissions, publishes, overrides or sends copy back" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#08427b;strokeColor=#052e56;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sys" value="Green Claims Guard&#xa;[Software System]&#xa;Checks fashion product copy against UK and EU environmental-claims law before publication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1168bd;strokeColor=#0b4884;fontColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ext1" value="Auth0&#xa;[External System]&#xa;Authenticates users; issues roles and permissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="740" y="60" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ext2" value="OpenAI (gpt-4o-mini)&#xa;[External System]&#xa;Generates AI-assisted, fact-constrained compliant rewrites" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="740" y="240" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ext3" value="GOV.UK&#xa;[External System]&#xa;Publishes CMA green-claims guidance and news (Atom feed)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ce1" value="Writes &amp; submits product copy [HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="p1" target="sys">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2" value="Reviews, publishes, overrides, sends back [HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="p2" target="sys">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce3" value="Authenticates users [OIDC / OAuth2]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="sys" target="ext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce4" value="Requests AI compliance check &amp; rewrite [HTTPS/REST, JSON]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="sys" target="ext2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce5" value="Fetches regulation updates [Atom/HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="sys" target="ext3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="C4 Container" id="c4container">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title2" value="C4 Level 2, Containers: Green Claims Guard" style="text;html=1;fontStyle=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1" value="Copywriter&#xa;[Person]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#08427b;strokeColor=#052e56;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q2" value="Senior Editor&#xa;[Person]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#08427b;strokeColor=#052e56;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boundary" value="Green Claims Guard [Software System]" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=12;fillColor=none;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="Web Application&#xa;[Container: React SPA, served by nginx]&#xa;Lets Copywriters and Senior Editors write copy, see findings live, and review submissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="API Application&#xa;[Container: .NET 10 minimal API]&#xa;Runs the rule engine, orchestrates AI checks, enforces the publish gate and permissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="Database&#xa;[Container: Azure SQL Database]&#xa;Stores products, drafts, compliance reviews, audit ledger, verified facts" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qext1" value="Auth0&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qext2" value="OpenAI (gpt-4o-mini)&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qext3" value="GOV.UK&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qe1" value="Uses [HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="q1" target="c1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe2" value="Uses [HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="q2" target="c1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe3" value="Makes API calls to [JSON/HTTPS, Bearer JWT]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c1" target="c2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe4" value="Redirects to sign in [OIDC]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c1" target="qext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe5" value="Validates JWT bearer tokens [JWKS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c2" target="qext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe6" value="Reads / writes [EF Core, TDS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c2" target="c3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe7" value="Sends copy + verified facts, receives structured rewrite [HTTPS/REST]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c2" target="qext2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qe8" value="Fetches regulation updates [Atom/HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="c2" target="qext3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="C4 Component API" id="c4component">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title3" value="C4 Level 3, Components: API Application" style="text;html=1;fontStyle=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" value="Web Application&#xa;[Container: React SPA]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="boundary2" value="API Application [Container: .NET 10 minimal API]" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=12;fillColor=none;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="640" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="k1" value="Endpoints &amp; Auth Policies&#xa;[Component: Minimal API routes]&#xa;Maps HTTP routes, enforces JWT-based persona policies before any handler runs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k2" value="Compliance Orchestrator&#xa;[Component]&#xa;Coordinates the rule and AI checks, computes overall status (changes required / ready to publish)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k3" value="Rule Engine&#xa;[Component]&#xa;Deterministic, in-process phrase matching against the rule set; zero marginal cost per check" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k4" value="AI Compliance Client&#xa;[Component]&#xa;Calls OpenAI under a hard timeout; returns structured findings + a suggested rewrite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k5" value="AI Output Guard&#xa;[Component]&#xa;Rejects any AI rewrite that invents a number absent from the copy or verified facts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="400" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k6" value="Aggregation &amp; Scoring&#xa;[Component]&#xa;Merges rule and AI findings, dedupes by sentence, computes the compliance score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k7" value="Audit Ledger&#xa;[Component]&#xa;Insert-only record of every check, decision, override and publish" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k8" value="Data Access&#xa;[Component: EF Core]&#xa;Reads and writes products, drafts, reviews, facts and the ledger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85bbf0;strokeColor=#5d82a8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kext1" value="Auth0&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kext2" value="OpenAI (gpt-4o-mini)&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="415" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kext3" value="Database&#xa;[Container: Azure SQL]" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ke1" value="Makes API calls to [JSON/HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="r1" target="k1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke2" value="Validates JWT [JWKS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k1" target="kext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke3" value="Invokes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k1" target="k2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4" value="Runs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k2" target="k3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke5" value="Runs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k2" target="k4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke6" value="Sends copy, receives rewrite [HTTPS/REST]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k4" target="kext2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke7" value="Validates output of" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k5" target="k4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke8" value="Findings from both feed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k3" target="k6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k5" target="k6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke10" value="Records result to" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k6" target="k7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke11" value="Reads / writes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k7" target="k8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke12" value="Reads / writes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k2" target="k8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ke13" value="EF Core [TDS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="k8" target="kext3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Deployment" id="deployment">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dtitle" value="Deployment: Green Claims Guard on Azure" style="text;html=1;fontStyle=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
+        </mxCell>
+        <!-- CI/CD row -->
+        <mxCell id="d1" value="GitHub&#xa;[Deployment Node]&#xa;Repository, push to main" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" value="GitHub Actions&#xa;[Deployment Node]&#xa;Runs backend + frontend test suites, builds both Docker images" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" value="GHCR (ghcr.io)&#xa;[Deployment Node: Private Registry]&#xa;green-claims-guard-api:latest&#xa;green-claims-guard-web:latest" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="240" height="100" as="geometry" />
+        </mxCell>
+        <!-- Azure boundary -->
+        <mxCell id="azboundary" value="Azure, resource group green-claims-rg (France Central)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=12;fillColor=none;strokeColor=#2e6295;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="1120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d4" value="Azure App Service: green-claims-ui&#xa;[Deployment Node: Linux container, plan green-claims-plan]" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=11;fillColor=none;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d4a" value="nginx + React build&#xa;[Container instance]&#xa;Serves the SPA as static files" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5" value="Azure App Service: green-claims-api&#xa;[Deployment Node: Linux container, plan green-claims-plan]" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=11;fillColor=none;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d5a" value=".NET 10 API&#xa;[Container instance]&#xa;WEBSITES_PORT=8080" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d6" value="Azure SQL: green-claims-db&#xa;[Deployment Node: Server green-claims-sql, General Purpose Serverless]" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;boundedLbl=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="840" y="330" width="260" height="120" as="geometry" />
+        </mxCell>
+        <!-- Browser -->
+        <mxCell id="d7" value="End user&#39;s device&#xa;[Deployment Node: Browser]" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=11;fillColor=none;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="d7a" value="Web Application&#xa;[Container instance: React SPA]&#xa;Runs client-side once loaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#438dd5;strokeColor=#2e6295;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <!-- External systems -->
+        <mxCell id="dext1" value="Auth0&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="520" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dext2" value="OpenAI (gpt-4o-mini)&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="610" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dext3" value="GOV.UK Atom feed&#xa;[External System]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#6c6c6c;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="700" width="170" height="70" as="geometry" />
+        </mxCell>
+        <!-- Edges: CI/CD -->
+        <mxCell id="de1" value="Push to main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d1" target="d2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de2" value="Tests pass, builds &amp; pushes images" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d2" target="d3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de3" value="CD webhook: pulls &amp; redeploys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;dashed=1;" edge="1" parent="1" source="d3" target="d4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de4" value="CD webhook: pulls &amp; redeploys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;dashed=1;" edge="1" parent="1" source="d3" target="d5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Edges: runtime -->
+        <mxCell id="de5" value="Loads the SPA [HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d7a" target="d4a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de6" value="API calls [HTTPS/REST, Bearer JWT]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d7a" target="d5a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de7" value="Signs in [OIDC redirect]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;exitX=1;exitY=0.3;entryX=0;entryY=0.3;" edge="1" parent="1" source="d7a" target="dext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de8" value="Validates JWT [JWKS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d5a" target="dext1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de9" value="AI compliance check [HTTPS/REST]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d5a" target="dext2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de10" value="Regulation updates [Atom/HTTPS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d5a" target="dext3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="de11" value="Reads / writes [EF Core, TDS]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=11;" edge="1" parent="1" source="d5a" target="d6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZuzyX0MdLZK5NWDMoSu6" name="Page-6">
+    <mxGraphModel dx="680" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&#xa;&lt;div id=&quot;geInfo&quot;&gt;&#xa;&#x9;&lt;div class=&quot;geBlock&quot;&gt;&#xa;&#x9;&#x9;&lt;h1&gt;Flowchart Maker and Online Diagram Software&lt;/h1&gt;&#xa;&#x9;&#x9;&lt;p&gt;&#xa;&#x9;&#x9;&#x9;draw.io is free online diagram software. You can use it as a flowchart maker, network diagram software, to create UML online, as an ER diagram tool, &#xa;&#x9;&#x9;&#x9;to design database schema, to build BPMN online, as a circuit diagram maker, and more. draw.io can import .vsdx, Gliffy™ and Lucidchart™ files .&#xa;&#x9;&#x9;&lt;/p&gt;&#xa;&#x9;&#x9;&lt;h2 id=&quot;geStatus&quot;&gt;Loading... &lt;img src=&quot;images/spin.gif&quot;&gt;&lt;/h2&gt;&#xa;&#x9;&#x9;&lt;p&gt;&#xa;&#x9;&#x9;&#x9;Please ensure JavaScript is enabled.&#xa;&#x9;&#x9;&lt;/p&gt;&#xa;&#x9;&lt;/div&gt;&#xa;&lt;/div&gt;&#xa;&#xa;&#xa;" link="&#xa;&lt;div id=&quot;geInfo&quot;&gt;&#xa;&#x9;&lt;div class=&quot;geBlock&quot;&gt;&#xa;&#x9;&#x9;&lt;h1&gt;Flowchart Maker and Online Diagram Software&lt;/h1&gt;&#xa;&#x9;&#x9;&lt;p&gt;&#xa;&#x9;&#x9;&#x9;draw.io is free online diagram software. You can use it as a flowchart maker, network diagram software, to create UML online, as an ER diagram tool, &#xa;&#x9;&#x9;&#x9;to design database schema, to build BPMN online, as a circuit diagram maker, and more. draw.io can import .vsdx, Gliffy™ and Lucidchart™ files .&#xa;&#x9;&#x9;&lt;/p&gt;&#xa;&#x9;&#x9;&lt;h2 id=&quot;geStatus&quot;&gt;Loading... &lt;img src=&quot;images/spin.gif&quot;&gt;&lt;/h2&gt;&#xa;&#x9;&#x9;&lt;p&gt;&#xa;&#x9;&#x9;&#x9;Please ensure JavaScript is enabled.&#xa;&#x9;&#x9;&lt;/p&gt;&#xa;&#x9;&lt;/div&gt;&#xa;&lt;/div&gt;&#xa;&#xa;&#xa;" id="UzEBhfPWnyGFdafEvr8R-1">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="593" width="550" x="11" y="82" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
